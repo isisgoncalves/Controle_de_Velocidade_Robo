@@ -28,7 +28,7 @@
 ### 📌 Saída
 </br>
 
-- Construa uma mensagem de saída formatada corretamente, como nessa estrutura: ' registroNome + ", verifique o email: " + registroEmail + " para ativar." '
+- A saída deve apresentar apenas a velocidade final (int)  do robô, considerando as regras descritas nos métodos de acelerar e desacelerar.
 #
 ### 📌 Tecnologias e ferramentas:
 
