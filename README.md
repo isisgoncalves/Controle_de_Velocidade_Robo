@@ -8,6 +8,12 @@ Você foi contratado para criar um software que simule o controle de velocidade 
 - velocidadeAtual: inteiro que representa a velocidade atual do robô (inicialmente 0);
 
 - velocidadeMaxima: inteiro que representa a velocidade máxima do robô;
+
+- velocidadeMinima: inteiro que representa a velocidade mínima do robô;
+
+- acelerar(): um método que aumenta a velocidade atual em 1 unidade, desde que não ultrapasse a velocidade máxima;
+
+- desacelerar(): um método que diminui a velocidade atual em 1 unidade, desde que não fique abaixo da velocidade mínima.
 #
 ### 📌 Entrada
 </br>  
