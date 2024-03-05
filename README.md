@@ -1,9 +1,9 @@
-# Controle de velocidade: Robô 
+# Controle de velocidade: Robo ⚠️
 
 ## Desafio Bootcamp DIO Decola Tech 2024 🚀 
 </br>  
 
-- Você foi contratado para criar um software que simule o controle de velocidade de um robô. Esse robô possui uma velocidade máxima e uma velocidade mínima. Sua tarefa é desenvolver um programa  utilizando o conceito de Orientação a Objetos para calcular a velocidade final do robô após uma sequência de comandos.Crie uma classe chamada "Robo" que possua as seguintes propriedades e métodos:
+- Você foi contratado para criar um software que simule o controle de velocidade de um robô. Esse robô possui uma velocidade máxima e uma velocidade mínima. Sua tarefa é desenvolver um programa  utilizando o conceito de Orientação a Objetos para calcular a velocidade final do robô após uma sequência de comandos. Crie uma classe chamada "Robo" que possua as seguintes propriedades e métodos:
 
   - velocidadeAtual: inteiro que representa a velocidade atual do robô (inicialmente 0);
 
